@@ -1,5 +1,2 @@
 streamlit
-mysql.connector
-hashlib
 pandas
-smtplib
